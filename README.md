@@ -1,3 +1,4 @@
-# assignment2
+# assignment2 Mobile Application Development Sect 1
 
-A new Flutter project.
+Name: Muhammad Syahin bin Saiful Muzamir
+Matric No: 2117563
